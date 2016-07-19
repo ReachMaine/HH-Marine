@@ -1,0 +1,52 @@
+﻿.content {
+	text-align: left;
+	font-family: "trebuchet MS", Verdana;
+	font-size: 14 px;
+	line-height: 24px;
+	}
+	
+	.tablehead {
+	text-align: center;
+	font-family: "Trebuchet MS", Verdana;
+	font-size: large;
+	text-transform: uppercase;
+}
+.tabletop-text {
+	text-align: right;
+	font-family: "trebuchet MS", Verdana;
+	font-size: small;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.tabletop-numbers {
+	text-align: center;
+	font-family: "trebuchet MS", Verdana;
+	font-size: small;
+	font-weight: bold;
+	text-transform: capitalize;
+}
+.tableprices {
+	text-align: left;
+	font-family: "trebuchet MS", verdana;
+	font-size: small;
+	font-weight: bold;
+	text-transform: capitalize;
+}
+a:link {
+	color: #1B0E2F;
+	text-decoration: none;
+}
+a:visited {
+	color: #535481;
+	text-decoration: none;
+}
+a:hover {
+	color: #C7CEEE;
+	text-decoration: none;
+}
+a:active {
+	color: #1B0E2F;
+	text-decoration: none;
+}
+a {
+	font-weight: bold;
